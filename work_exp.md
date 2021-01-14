@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /work-experience
+permalink: /work-experience.html
 ---
 
 ## Welcome to my work experience

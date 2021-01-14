@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /curriculum-vitae
+permalink: /cv.html
 ---
 
 ## Welcome to my CV
